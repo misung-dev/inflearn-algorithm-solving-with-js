@@ -17,6 +17,7 @@
 ## 목차
 
 1. [**기본문제 풀이**](#1)
+2. [**1, 2차원 배열 탐색**](#2)
 
 <br />
 
@@ -34,14 +35,28 @@
 |  6   |       홀수       |        [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/6-odd-numbers.js)        |   03.23   |
 |  7   |      10부제      |       [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/7-10-subtitles.js)        |   03.24   |
 |  8   |    일곱난쟁이    |       [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/8-seven-dwarfs.js)        |   03.25   |
-|  9   |    A를 #으로     |                                                                                                                          |           |
-|  10  |    문자 찾기     |                                                                                                                          |           |
-|  11  |   대문자 찾기    |                                                                                                                          |           |
-|  12  |   대문자 통일    |                                                                                                                          |           |
-|  13  |  대소문자 변환   |                                                                                                                          |           |
+|  9   |    A를 #으로     |         [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/9-a-to-%23.js)          |   03.26   |
+|  10  |    문자 찾기     |    [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/10-finding-characters.js)    |   03.27   |
+|  11  |   대문자 찾기    |   [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/11-find-capital-letters.js)   |   03.28   |
+|  12  |   대문자 통일    |   [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/12-unify-capitalization.js)   |   03.29   |
+|  13  |  대소문자 변환   |     [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/13-case-conversion.js)      |   03.30   |
 |  14  |  가장 긴 문자열  |                                                                                                                          |           |
 |  15  | 가운데 문자 출력 |                                                                                                                          |           |
 |  16  |  중복 문자 제거  |                                                                                                                          |           |
 |  17  |  중복 단어 제거  |                                                                                                                          |           |
+
+<br />
+<div id="2"></div>
+
+## 1, 2차원 배열 탐색
+
+| 번호 |      문제      | JS 풀이 코드 | 풀이 일자 |
+| :--: | :------------: | :----------: | :-------: |
+|  1   | 큰 수 출력하기 |              |           |
+|  2   |  보이는 학생   |              |           |
+|  3   |   가위바위보   |              |           |
+|  4   |   점수 계산    |              |           |
+|  5   |  등수 구하기   |              |           |
+|  6   | 격자판 최대합  |              |           |
 
 <br />
