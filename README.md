@@ -25,38 +25,38 @@
 
 ## 기본문제 풀이
 
-| 번호 |       문제       |                                                       JS 풀이 코드                                                       | 풀이 일자 |
-| :--: | :--------------: | :----------------------------------------------------------------------------------------------------------------------: | :-------: |
-|  1   | 세 수 중 최소값  |  [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/1-lowest-of-three-numbers.js)  |   03.18   |
-|  2   | 삼각형 판별하기  |    [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/2-identify-triangles.js)     |   03.19   |
-|  3   |    연필 개수     |     [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/3-number-of-pencils.js)     |   03.20   |
-|  4   | 1부터 N까지의 합 |      [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/4-sum-from-1-to-n.js)      |   03.21   |
-|  5   |  최소값 구하기   | [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/5-finding-the-minimum-value.js) |   03.22   |
-|  6   |       홀수       |        [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/6-odd-numbers.js)        |   03.23   |
-|  7   |      10부제      |       [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/7-10-subtitles.js)        |   03.24   |
-|  8   |    일곱난쟁이    |       [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/8-seven-dwarfs.js)        |   03.25   |
-|  9   |    A를 #으로     |         [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/9-a-to-%23.js)          |   03.26   |
-|  10  |    문자 찾기     |    [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/10-finding-characters.js)    |   03.27   |
-|  11  |   대문자 찾기    |   [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/11-find-capital-letters.js)   |   03.28   |
-|  12  |   대문자 통일    |   [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/12-unify-capitalization.js)   |   03.29   |
-|  13  |  대소문자 변환   |     [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/13-case-conversion.js)      |   03.30   |
-|  14  |  가장 긴 문자열  |                                                                                                                          |           |
-|  15  | 가운데 문자 출력 |                                                                                                                          |           |
-|  16  |  중복 문자 제거  |                                                                                                                          |           |
-|  17  |  중복 단어 제거  |                                                                                                                          |           |
+| 번호 |       문제       |                                                        JS 풀이 코드                                                         | 풀이 일자 |
+| :--: | :--------------: | :-------------------------------------------------------------------------------------------------------------------------: | :-------: |
+|  1   | 세 수 중 최소값  |   [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/1-lowest-of-three-numbers.js)    |   03.18   |
+|  2   | 삼각형 판별하기  |      [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/2-identify-triangles.js)      |   03.19   |
+|  3   |    연필 개수     |      [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/3-number-of-pencils.js)       |   03.20   |
+|  4   | 1부터 N까지의 합 |       [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/4-sum-from-1-to-n.js)        |   03.21   |
+|  5   |  최소값 구하기   |  [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/5-finding-the-minimum-value.js)   |   03.22   |
+|  6   |       홀수       |         [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/6-odd-numbers.js)          |   03.23   |
+|  7   |      10부제      |         [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/7-10-subtitles.js)         |   03.24   |
+|  8   |    일곱난쟁이    |         [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/8-seven-dwarfs.js)         |   03.25   |
+|  9   |    A를 #으로     |           [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/9-a-to-%23.js)           |   03.26   |
+|  10  |    문자 찾기     |     [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/10-finding-characters.js)      |   03.27   |
+|  11  |   대문자 찾기    |    [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/11-find-capital-letters.js)     |   03.28   |
+|  12  |   대문자 통일    |    [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/12-unify-capitalization.js)     |   03.29   |
+|  13  |  대소문자 변환   |       [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/13-case-conversion.js)       |   03.30   |
+|  14  |  가장 긴 문자열  |                                                           [JS]()                                                            |   03.31   |
+|  15  | 가운데 문자 출력 | [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/15.print-the-center-character.js)  |   04.01   |
+|  16  |  중복 문자 제거  | [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/16-remove-duplicate-characters.js) |   04.02   |
+|  17  |  중복 단어 제거  |   [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/17-remove-duplicate-words.js)    |   04.03   |
 
 <br />
 <div id="2"></div>
 
 ## 1, 2차원 배열 탐색
 
-| 번호 |      문제      | JS 풀이 코드 | 풀이 일자 |
-| :--: | :------------: | :----------: | :-------: |
-|  1   | 큰 수 출력하기 |              |           |
-|  2   |  보이는 학생   |              |           |
-|  3   |   가위바위보   |              |           |
-|  4   |   점수 계산    |              |           |
-|  5   |  등수 구하기   |              |           |
-|  6   | 격자판 최대합  |              |           |
+| 번호 |      문제      |                                                    JS 풀이 코드                                                     | 풀이 일자 |
+| :--: | :------------: | :-----------------------------------------------------------------------------------------------------------------: | :-------: |
+|  1   | 큰 수 출력하기 | [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section2/1-print-a-large-number.js) |   04.04   |
+|  2   |  보이는 학생   |   [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section2/2-visible-students.js)   |   04.05   |
+|  3   |   가위바위보   |                                                                                                                     |           |
+|  4   |   점수 계산    |                                                                                                                     |           |
+|  5   |  등수 구하기   |                                                                                                                     |           |
+|  6   | 격자판 최대합  |                                                                                                                     |           |
 
 <br />
