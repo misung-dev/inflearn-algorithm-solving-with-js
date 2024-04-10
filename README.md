@@ -50,13 +50,14 @@
 
 ## 1, 2차원 배열 탐색
 
-| 번호 |      문제      |                                                    JS 풀이 코드                                                     | 풀이 일자 |
-| :--: | :------------: | :-----------------------------------------------------------------------------------------------------------------: | :-------: |
-|  1   | 큰 수 출력하기 | [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section2/1-print-a-large-number.js) |   04.04   |
-|  2   |  보이는 학생   |   [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section2/2-visible-students.js)   |   04.05   |
-|  3   |   가위바위보   |                                                                                                                     |           |
-|  4   |   점수 계산    |                                                                                                                     |           |
-|  5   |  등수 구하기   |                                                                                                                     |           |
-|  6   | 격자판 최대합  |                                                                                                                     |           |
+| 번호 |      문제      |                                                     JS 풀이 코드                                                     | 풀이 일자 |
+| :--: | :------------: | :------------------------------------------------------------------------------------------------------------------: | :-------: |
+|  1   | 큰 수 출력하기 | [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section2/1-print-a-large-number.js)  |   04.04   |
+|  2   |  보이는 학생   |   [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section2/2-visible-students.js)    |   04.05   |
+|  3   |   가위바위보   |  [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section2/3-rock-paper-scissors.js)  |   04.06   |
+|  4   |   점수 계산    | [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section2/4-calculate-your-score.js)  |   04.07   |
+|  5   |  등수 구하기   | [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section2/5-finding-equal-numbers.js) |   04.08   |
+|  6   | 격자판 최대합  |     [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section2/6-grid-max-sum.js)      |   04.09   |
+|  7   |     봉우리     |         [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section2/7-peaks.js)         |   04.10   |
 
 <br />
