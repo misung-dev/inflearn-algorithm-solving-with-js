@@ -18,6 +18,8 @@
 
 1. [**기본문제 풀이**](#1)
 2. [**1, 2차원 배열 탐색**](#2)
+3. [**문자열 탐색**](#3)
+4. [**완전탐색(블루투포스)**](#4)
 
 <br />
 
@@ -40,12 +42,13 @@
 |  11  |   대문자 찾기    |    [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/11-find-capital-letters.js)     |   03.28   |
 |  12  |   대문자 통일    |    [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/12-unify-capitalization.js)     |   03.29   |
 |  13  |  대소문자 변환   |       [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/13-case-conversion.js)       |   03.30   |
-|  14  |  가장 긴 문자열  |                                                           [JS]()                                                            |   03.31   |
+|  14  |  가장 긴 문자열  |       [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/14-longest-string.js)        |   03.31   |
 |  15  | 가운데 문자 출력 | [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/15.print-the-center-character.js)  |   04.01   |
 |  16  |  중복 문자 제거  | [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/16-remove-duplicate-characters.js) |   04.02   |
 |  17  |  중복 단어 제거  |   [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section1/17-remove-duplicate-words.js)    |   04.03   |
 
 <br />
+
 <div id="2"></div>
 
 ## 1, 2차원 배열 탐색
@@ -59,5 +62,33 @@
 |  5   |  등수 구하기   | [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section2/5-finding-equal-numbers.js) |   04.08   |
 |  6   | 격자판 최대합  |     [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section2/6-grid-max-sum.js)      |   04.09   |
 |  7   |     봉우리     |         [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section2/7-peaks.js)         |   04.10   |
+
+<br />
+
+<div id="3"></div>
+
+## 문자열 탐색
+
+| 번호 |              문제              |                                                        JS 풀이 코드                                                        | 풀이 일자 |
+| :--: | :----------------------------: | :------------------------------------------------------------------------------------------------------------------------: | :-------: |
+|  1   |       회문문자열       |     [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section3/1-palindromic-string.js)      |   04.11   |
+|  2   |   유효한 팰린드롬   |      [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section3/2-valid-palindromes.js)      |   04.12   |
+|  3   |      숫자만 추출       |    [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section3/3-extract-numbers-only.js)     |   04.13   |
+|  4   | 가장 짧은 문자거리 | [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section3/4-shortest-character-distance.js) |   04.14   |
+|  5   |      문자열 압축      |     [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section3/5-compress-the-string.js)     |   04.15   |
+
+<br />
+
+<div id="4"></div>
+
+## 완전탐색(블루투포스)
+
+| 번호 |        문제        |                                                     JS 풀이 코드                                                      | 풀이 일자 |
+| :--: | :----------------: | :-------------------------------------------------------------------------------------------------------------------: | :-------: |
+|  1   | 자리수의 합  |     [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section4/1-sum-of-digits.js)      |   04.16   |
+|  2   | 뒤집은 소수 |    [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section4/2-flipped-decimal.js)     |   04.17   |
+|  3   |    멘토링     |       [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section4/3-mentoring.js)        |   04.18   |
+|  4   |  졸업선물  |    [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section4/4-graduation-gift.js)     |   04.19   |
+|  5   | K번째 큰 수  | [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section4/5-the-Kth-largest-number.js) |   04.20   |
 
 <br />
