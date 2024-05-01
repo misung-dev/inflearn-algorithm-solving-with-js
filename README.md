@@ -20,6 +20,8 @@
 2. [**1, 2차원 배열 탐색**](#2)
 3. [**문자열 탐색**](#3)
 4. [**완전탐색(블루투포스)**](#4)
+5. [**효율성(투포인터 알고리즘, 슬라이딩윈도우, 해쉬)**](#5)
+6. [**자료구조(스택, 큐)**](#6)
 
 <br />
 
@@ -90,5 +92,38 @@
 |  3   |    멘토링     |       [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section4/3-mentoring.js)        |   04.18   |
 |  4   |  졸업선물  |    [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section4/4-graduation-gift.js)     |   04.19   |
 |  5   | K번째 큰 수  | [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section4/5-the-Kth-largest-number.js) |   04.20   |
+
+<br />
+
+<div id="5"></div>
+
+## 효율성(투포인터 알고리즘, 슬라이딩윈도우, 해쉬)
+
+| 번호 |        문제        |                                                        JS 풀이 코드                                                         | 풀이 일자 |
+| :--: | :----------------: | :-------------------------------------------------------------------------------------------------------------------------: | :-------: |
+|  1   |   두 배열 합치기   |      [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section5/1-combine-two-arrays.js)      |   04.21   |
+|  2   |  공통원소 구하기   |    [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section5/2-find-a-common-element.js)     |   04.22   |
+|  3   |   연속 부분수열1   | [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section5/3-continuous-partial-sequence1.js) |   04.23   |
+|  4   |   연속 부분수열2   | [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section5/4-continuous-partial-sequence2.js) |   04.24   |
+|  5   |     최대 매출      |       [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section5/5-maximum-revenue.js)        |   04.26   |
+|  6   |     학급 회장      |   [JS](<https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section5/6-class-president(hash).js>)    |   04.27   |
+|  7   |      아나그램      |           [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section5/7-anagrams.js)           |   04.28   |
+|  8   | 모든 아나그램 찾기 |         [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section5/8-all-anagrams.js)         |   04.29   |
+
+<br />
+
+<div id="6"></div>
+
+## 자료구조(스택, 큐)
+
+| 번호 |        문제         | JS 풀이 코드 | 풀이 일자 |
+| :--: | :-----------------: | :----------: | :-------: |
+|  1   |     올바른 괄호     |    [JS]()    |   04.30   |
+|  2   |   괄호 문자 제거    |    [JS]()    |   05.01   |
+|  3   |   크레인 인형뽑기   |    [JS]()    |           |
+|  4   | 후위식(postfix)연산 |    [JS]()    |           |
+|  5   |      쇠막대기       |    [JS]()    |           |
+|  6   |     공주 구하기     |    [JS]()    |           |
+|  7   |    교육과정 설계    |    [JS]()    |           |
 
 <br />
