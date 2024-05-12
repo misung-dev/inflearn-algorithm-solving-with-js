@@ -22,6 +22,7 @@
 4. [**완전탐색(블루투포스)**](#4)
 5. [**효율성(투포인터 알고리즘, 슬라이딩윈도우, 해쉬)**](#5)
 6. [**자료구조(스택, 큐)**](#6)
+7. [**자료구조(스택, 큐)**](#6)
 
 <br />
 
@@ -116,14 +117,14 @@
 
 ## 자료구조(스택, 큐)
 
-| 번호 |        문제         | JS 풀이 코드 | 풀이 일자 |
-| :--: | :-----------------: | :----------: | :-------: |
-|  1   |     올바른 괄호     |    [JS]()    |   04.30   |
-|  2   |   괄호 문자 제거    |    [JS]()    |   05.01   |
-|  3   |   크레인 인형뽑기   |    [JS]()    |           |
-|  4   | 후위식(postfix)연산 |    [JS]()    |           |
-|  5   |      쇠막대기       |    [JS]()    |           |
-|  6   |     공주 구하기     |    [JS]()    |           |
-|  7   |    교육과정 설계    |    [JS]()    |           |
+| 번호 |          문제           |                                                         JS 풀이 코드                                                         | 풀이 일자 |
+| :--: | :---------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :-------: |
+|  1   |       올바른 괄호       |      [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section6/1-correct-parentheses.js)      |   04.30   |
+|  2   |     괄호 문자 제거      | [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section6/2-remove-parenthesis-characters.js) |   05.01   |
+|  3   | 크레인 인형뽑기(카카오) |    [JS](<https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section6/3-crane-puppet-(kakao).js>)     |   05.02   |
+|  4   |   후위식(postfix)연산   |            [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section6/4-postfix.js)            |   05.03   |
+|  5   |        쇠막대기         |            [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section6/5-crowbar.js)            |   05.04   |
+|  6   |       공주 구하기       |      [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section6/6-saving-the-princess.js)      |   05.05   |
+|  7   |      교육과정 설계      |       [JS](https://github.com/misung-dev/inflearn-algorithm-solving-with-js/blob/main/section6/7-curriculum-design.js)       |   05.06   |
 
 <br />
